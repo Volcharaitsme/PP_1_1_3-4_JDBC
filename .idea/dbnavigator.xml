@@ -38,6 +38,9 @@
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="34805d27-1325-466c-80e3-ffb63b9519f3" />
   </component>
+  <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="34805d27-1325-466c-80e3-ffb63b9519f3" dataset="Local_DB.users" active-filter-id="" />
+  </component>
   <component name="DBNavigator.Project.ExecutionManager">
     <retain-sticky-names value="false" />
   </component>
@@ -63,7 +66,7 @@
           <url-type value="DATABASE" />
           <host value="localhost" />
           <port value="3306" />
-          <database value="mysql" />
+          <database value="Local_DB" />
           <tns-folder value="" />
           <tns-profile value="" />
           <server-type value="" />
